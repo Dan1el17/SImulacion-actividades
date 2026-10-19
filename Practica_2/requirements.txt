@@ -1,0 +1,6 @@
+# Dependencias del proyecto Practica 02 - Simulacion (Python)
+# Instalar con:  pip install -r requirements.txt
+numpy>=1.26,<3.0
+matplotlib>=3.9
+scipy>=1.14
+pytest>=8.0
