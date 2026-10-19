@@ -91,10 +91,4 @@ La simulación dura `10000` unidades de tiempo y usa la semilla `42`.
 | 2 | 2.5 | 3.0 | Mayor utilización |
 | 3 | 2.9 | 3.0 | Cerca de saturación |
 
-## Integrantes
 
-## Autores: 
-### [Iveth Zaragocin](https://github.com/ivecanahi)
-### [Steeven Pardo](https://github.com/Dan1el17)
-### [Anthony Yaguana](https://github.com/Anthony-YP)
-### [Pedro Jiménez](https://github.com/Pedro27-J)
