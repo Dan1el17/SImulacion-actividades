@@ -126,13 +126,3 @@ chi-cuadrado = suma((observado - esperado)^2 / esperado)
 
 Se usan 15 grados de libertad y un nivel de significancia de `0.05`; el valor de referencia es aproximadamente `24.996`. Si el estadistico supera ese valor, se rechaza la hipotesis de distribucion uniforme para esta prueba. Si no lo supera, no se rechaza la hipotesis, pero eso no demuestra que la distribucion sea perfectamente uniforme.
 
-## Git y archivos excluidos
-
-El archivo `.gitignore` excluye entornos virtuales (`.venv/`, `venv/` y similares), caches de Python, archivos compilados de Java, configuraciones locales de editores y archivos temporales del sistema. Los CSV y las graficas de `Resultados/` se mantienen versionables porque son entregables de la practica.
-
-Para comprobar antes de subir el proyecto que el entorno virtual no se incluira:
-
-```bash
-git status --short
-git check-ignore -v .venv/
-```
