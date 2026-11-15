@@ -1,0 +1,29 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Java compilado
+*.class
+target/
+out/
+build/
+
+# Configuracion local de editores
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.log

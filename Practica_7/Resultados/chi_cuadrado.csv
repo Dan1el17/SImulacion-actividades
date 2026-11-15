@@ -1,0 +1,9 @@
+N,lenguaje,estadistico_chi_cuadrado,grados_libertad,alfa,valor_critico,decision
+1000,Python,13.311999999999999,15,0.05,24.995790139728616,no se rechaza uniformidad
+1000,Java,13.311999999999998,15,0.05,24.995790139728616,no se rechaza uniformidad
+10000,Python,13.1296,15,0.05,24.995790139728616,no se rechaza uniformidad
+10000,Java,13.129600000000000,15,0.05,24.995790139728616,no se rechaza uniformidad
+100000,Python,16.31072,15,0.05,24.995790139728616,no se rechaza uniformidad
+100000,Java,16.310720000000000,15,0.05,24.995790139728616,no se rechaza uniformidad
+1000000,Python,10.833247999999999,15,0.05,24.995790139728616,no se rechaza uniformidad
+1000000,Java,10.833248000000001,15,0.05,24.995790139728616,no se rechaza uniformidad
