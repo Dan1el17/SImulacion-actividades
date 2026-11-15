@@ -6,9 +6,9 @@
 | [02](Practica_2/) | Comparación de modelos determinísticos, estocásticos, discretos y continuos |
 | [03](Practica_3/) | Simulacion |
 | [04](Practica_4/) | Simulacion infectados |
-| [04](Practica_5/) | Simulacion infectados |
-| [04](Practica_6/) | Simulacion infectados |
-| [04](Practica_7/) | Estimacion de pi mediante Monte Carlo |
+| [05](Practica_5/) | Simulacion infectados |
+| [06](Practica_6/) | Simulacion infectados |
+| [07](Practica_7/) | Estimacion de pi mediante Monte Carlo |
 
 
 
