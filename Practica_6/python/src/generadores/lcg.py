@@ -26,9 +26,16 @@ class LCG(Generador):
         self._incremento = incremento
         self._modulo = modulo
 
-    def siguiente(self) -> float:
+    def siguiente_entero(self) -> int:
         self._estado = (
             self._multiplicador * self._estado + self._incremento
         ) % self._modulo
 
-        return self._estado / self._modulo
+        return self._estado
+
+    def siguiente(self) -> float:
+        return self.siguiente_entero() / self._modulo
+
+    @property
+    def modulo(self) -> int:
+        return self._modulo
