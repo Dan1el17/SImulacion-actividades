@@ -1,4 +1,7 @@
 .venv/
+venv/
 __pycache__/
 *.pyc
+*.class
+/Practica_5/Java/out/
 .vscode/
