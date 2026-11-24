@@ -7,7 +7,6 @@
 | [03](Practica_3/) | Simulacion |
 | [04](Practica_4/) | Simulacion infectados |
 | [05](Practica_5/) | Generador Congruencial Lineal en Python y Java |
-| [05](Practica_5/) | Generador Congruencial Lineal |
 | [06](Practica_6/) | Simulacion infectados |
 | [07](Practica_7/) | Estimacion de pi mediante Monte Carlo |
 
